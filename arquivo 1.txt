@@ -1,2 +1,4 @@
 este é um novo arquivo no repositorio
+alterando esse arquivo
+alteracao 2 do arquivo
 alteracao 3
