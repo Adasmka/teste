@@ -1,1 +1,2 @@
 esse é o arquivo 2
+resolvendo bug
